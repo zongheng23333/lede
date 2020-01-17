@@ -139,7 +139,7 @@ jobs:
           CONFIG_PACKAGE_kmod-usb-uhci=y
           CONFIG_PACKAGE_kmod-usb2=y
           CONFIG_PACKAGE_kmod-usb2-pci=y
-          CONFIG_PACKAGE_kmod-usb3=y
+          CONFIG_PACKAGE_kmod-usb3=n
           CONFIG_PACKAGE_luci-app-frpc=n
           CONFIG_PACKAGE_luci-app-smartdns=n
           CONFIG_PACKAGE_luci-app-koolproxyR=y
